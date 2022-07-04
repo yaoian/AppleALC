@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Vandroiy</string>
 	<key>CodecID</key>
-	<integer>8050</integer>
+	<real>8050</real>
 	<key>CodecName</key>
 	<string>CX8050</string>
 	<key>Files</key>
@@ -57,7 +57,7 @@
 			<key>Find</key>
 			<data>xgYASIu/aAE=</data>
 			<key>MinKernel</key>
-			<integer>18</integer>
+			<real>18</real>
 			<key>Name</key>
 			<string>AppleHDA</string>
 			<key>Replace</key>

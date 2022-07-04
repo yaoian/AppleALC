@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>MacPeet</string>
 	<key>CodecID</key>
-	<integer>6474</integer>
+	<real>6474</real>
 	<key>CodecName</key>
 	<string>AD1984A</string>
 	<key>Files</key>
@@ -16,7 +16,7 @@
 				<key>Comment</key>
 				<string>MacPeet - AD1984A</string>
 				<key>Id</key>
-				<integer>11</integer>
+				<real>11</real>
 				<key>Path</key>
 				<string>layout11.xml.zlib</string>
 			</dict>
