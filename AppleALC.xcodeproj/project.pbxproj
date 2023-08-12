@@ -897,7 +897,7 @@
 				MODULE_NAME = as.vit9696.AppleALC;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.6;
+				MODULE_VERSION = 1.8.4;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -979,7 +979,7 @@
 				MODULE_NAME = as.vit9696.AppleALC;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.6;
+				MODULE_VERSION = 1.8.4;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -1037,7 +1037,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				GCC_C_LANGUAGE_STANDARD = c11;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1049,7 +1049,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				GCC_C_LANGUAGE_STANDARD = c11;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -1144,7 +1144,7 @@
 				MODULE_NAME = as.vit9696.AppleALC;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.6;
+				MODULE_VERSION = 1.8.4;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -1205,7 +1205,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				GCC_C_LANGUAGE_STANDARD = c11;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Sanitize;
@@ -1238,7 +1238,7 @@
 				MODULE_NAME = as.vit9696.AppleALCU;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.6;
+				MODULE_VERSION = 1.8.4;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -1316,7 +1316,7 @@
 				MODULE_NAME = as.vit9696.AppleALCU;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.6;
+				MODULE_VERSION = 1.8.4;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -1400,7 +1400,7 @@
 				MODULE_NAME = as.vit9696.AppleALCU;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.6;
+				MODULE_VERSION = 1.8.4;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
